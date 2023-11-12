@@ -1,1 +1,34 @@
+table{
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 
+}
+.container{
+    background-color: rgb(136, 136, 223);
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+td, th{
+    padding: 15px;
+}
+th{
+    background-color: whitesmoke;
+}
+table, td, th{
+    border:2px solid;
+    border-color:white;
+border-collapse: collapse;
+}
+tr:nth-child(even){
+    background-color:gray;
+}
+tr :hover{
+    background-color: white;
+}
+caption{
+    padding: 15px;
+}
