@@ -1,2 +1,1 @@
-# Skyline Tech
-A table is a representation of data arranged in rows and column. It is more like spreadsheet. In Html, with tables, you can arrange data, images, texts, links and so on into the rows and column of the cells. Css is the application of the varios styling properties to Html table elements. Each table may have an associated caption that provides a short description of the table's purpose.
+This table is a representation rows and columns constituting the names of Skyline Tech students and the approval of their exam scores 
